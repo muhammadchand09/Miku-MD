@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['+923344706269']
-global.OwnerNumber = ['+923344706269']
-global.ownertag = ['+923344706269']
+global.Owner = ['923344706269']
+global.OwnerNumber = ['923344706269']
+global.ownertag = ['923344706269']
 global.BotName = "CHAND"
 global.packname = "CHAND"
 global.author = "By: CHAND"
@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['+'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "Pakistan bwp"
